@@ -1,3 +1,5 @@
+## !! Attention! This is just a quick hack. Definitly not production ready and not tested. Use on own risk! 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
